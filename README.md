@@ -23,7 +23,7 @@ In this homework assignment, you will be applying what you've learned by creatin
    - Download VSCode if you don't have it downloaded already (see our installation guide!)
    - Open VSCode
    - Open a new window if you have another project, `File > New Window`
-   - Choose `Clone Git Repository...` from the Start options OR Open a terminal or command prompt, navigate to the directory where you want to store the project (hint: use the command `cd [PATHNAME]`, and run the following command: `git clone [HTTPS_LINK_TO_REMOTE_REPO]`
+   - Choose `Clone Git Repository...` from the Start options OR Open a terminal or command prompt, navigate to the directory where you want to store the project (hint: use the command `cd [PATHNAME]`, and run the following command: `git clone [HTTPS_LINK_TO_REMOTE_REPO]`https://github.com/cssgunc/basic-instagram-clone-tdnguye6.git
      
      ![Screen Shot 2024-09-24 at 9 29 15 PM](https://github.com/user-attachments/assets/14a68cc0-ef89-4203-8923-3068dbbd00ea)
 
